@@ -73,7 +73,7 @@ h1 {
     display: block;
     width: 340px;
     height: 210px;
-    background-color: hsl(300, 43%, 22%);
+    background-color: hsl(0, 0%, 100%);
     border-radius: 7px;
     color: hsl(0, 0%, 100%);
     padding: 30px;
